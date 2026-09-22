@@ -6,7 +6,19 @@ Librería de componentes UI para Flutter, construida con Material 3. Incluye tok
 
 ## Instalación
 
-Agrega la dependencia en tu `pubspec.yaml`:
+Agrega la dependencia en tu `pubspec.yaml`. Puedes usar cualquiera de estas dos opciones:
+
+**Desde GitHub (recomendado):**
+
+```yaml
+dependencies:
+  app_ui_kit:
+    git:
+      url: https://github.com/slorduy/app_ui_kit.git
+      ref: 1.0.0
+```
+
+**Desde ruta local:**
 
 ```yaml
 dependencies:
